@@ -1,0 +1,42 @@
+#c1 {
+    width: 500px;
+    height: 500px;
+    border-radius: 500ch;
+}
+
+#c2 {
+    width: 500px;
+    height: 500px;
+    border-radius: 500ch;
+}
+
+#c3 {
+    width: 500px;
+    height: 500px;
+    border-radius: 500ch;
+}
+
+#developed {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(157, 207, 160);
+    color: white;
+    text-align: center;
+}
+
+#body {
+    background-color: lightsalmon;
+}
+
+#h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    font-weight: 400;
+}
+
+#h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
